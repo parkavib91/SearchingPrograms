@@ -72,7 +72,7 @@ public class App {
          int x = 3;
          int arr[] = new int[] { 25, 60, 18, 3, 10 };
          int index
-        = Recursive.search(arr, 0, arr.length - 1, x);
+        = Recursive.Search(arr, 0, arr.length - 1, x);
          if (index != -1){
          if (index != -1)
 
